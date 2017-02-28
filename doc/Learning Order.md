@@ -1,5 +1,5 @@
-The suggested order for a proper understanding of this classes is the following
-===============================================================================
+The suggested order for a proper understanding of these classes is the following
+================================================================================
 
 1. SQLConnect.java: Database connection
 2. SQLCreate.java: Database creation
