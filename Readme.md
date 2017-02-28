@@ -17,3 +17,5 @@ The project source code (*src* folder) is structured as follows:
 The database this project manages should be a file named *company.db* inside the *db* folder. This database can be created by running the *SQLCreate* class' main method.
 
 The *lib* folder contains the SQLite-JDBC libraries.
+
+The *photos* folder contains photos to play with BLOBs.
