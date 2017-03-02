@@ -19,3 +19,8 @@ The database this project manages should be a file named *company.db* inside the
 The *lib* folder contains the SQLite-JDBC libraries.
 
 The *photos* folder contains photos to play with BLOBs.
+
+To understand how this demo works you can check the following cheatsheets (available in [this repository](https://github.com/rgarciacarmona/Java-Database-Cheatsheets)):
+
+- [JDBC Cheatsheet](https://github.com/rgarciacarmona/Java-Database-Cheatsheets/blob/master/JDBC%20Cheatsheet.md)
+- [Date with Java-SQL-XML](https://github.com/rgarciacarmona/Java-Database-Cheatsheets/blob/master/Date%20with%20Java-SQL-XML.md)
