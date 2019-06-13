@@ -20,6 +20,8 @@ The *lib* folder contains the SQLite-JDBC libraries.
 
 The *photos* folder contains photos to play with BLOBs.
 
+The *diagrams* folder contains E-R and UML diagramas for the database. They are provided in different formats.
+
 To understand how this demo works you can check the following cheatsheets (available in [this repository](https://github.com/rgarciacarmona/Java-Database-Cheatsheets)):
 
 - [JDBC Cheatsheet](https://github.com/rgarciacarmona/Java-Database-Cheatsheets/blob/master/JDBC%20Cheatsheet.md)
