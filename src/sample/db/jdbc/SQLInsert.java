@@ -16,7 +16,7 @@ public class SQLInsert {
 			c.createStatement().execute("PRAGMA foreign_keys=ON");
 			System.out.println("Database connection opened.");
 
-			// Get the employee info from the command prompt
+			// Get the department info from the command prompt
 			System.out.println("Please, input the department info:");
 			BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 			System.out.print("Name: ");
